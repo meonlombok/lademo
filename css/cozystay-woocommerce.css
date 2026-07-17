@@ -1,0 +1,28 @@
+:root {
+			--shf-color: var(--secondary-color);
+		}
+
+		#page {
+			--page-title-bg: #111111;
+			--page-title-color: #ffffff;
+		}
+
+		.invisible-label {
+			position: absolute;
+			left: -9999999999px;
+		}
+
+		.slick-arrow.slick-disabled {
+			cursor: unset;
+			opacity: 0.45;
+		}
+
+		.sidemenu .container {
+			background-color: #000000;
+		}
+
+		.sidemenu .container {
+			color: #ffffff;
+		}
+
+		/*# sourceURL=cozystay-woocommerce-inline-css */
